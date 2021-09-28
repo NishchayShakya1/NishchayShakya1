@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on App Development Projects.
 - 📫 You can reach me on :- 
 -     Twitter - @nishchayshakyaa
--     Instagram - https://www.instagram.com/nishchayshakyaa/
--     LinkedIn - https://www.linkedin.com/in/nishchayshakya/
+-     Instagram - @nishchayshakyaa
+-     LinkedIn -  @nishchayshakya
     
 <!---
 NishchayShakya1/NishchayShakya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
