@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, UX Design, App Development using Flutter Framework.
 - 💞️ I’m looking to collaborate on App Development Projects.
 - 📫 You can reach me on :- 
--     Twitter - https://twitter.com/nishchayshakyaa
+-     Twitter - @nishchayshakyaa
 -     Instagram - https://www.instagram.com/nishchayshakyaa/
 -     LinkedIn - https://www.linkedin.com/in/nishchayshakya/
     
