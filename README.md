@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Machine Learning, UX Design, App Development using Flutter Framework.
 - 💞️ I’m looking to collaborate on App Development Projects.
 - 📫 You can reach me on :- 
--     Twitter - @nishchayshakyaa
--     Instagram - @nishchayshakyaa
--     LinkedIn -  @nishchayshakya
+-     https://twitter.com/nishchayshakyaa
+-     https://www.instagram.com/nishchayshakyaa/
+-     https://www.linkedin.com/in/nishchayshakya/
     
 <!---
 NishchayShakya1/NishchayShakya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
