@@ -17,6 +17,13 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NishchayShakya1&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+<hr>
+<p align="center">
+    <a href="https://github.com/NishchayShakya1/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NishchayShakya1&theme=dracula" />
+  </a>
+</p>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -28,6 +35,7 @@
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nishchayshakya) 
+ 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
