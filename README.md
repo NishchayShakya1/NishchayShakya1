@@ -23,12 +23,13 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NishchayShakya1&theme=dracula" />
   </a>
 </p>
+<hr>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NishchayShakya1&icon=8&color=3)](https://visitcount.itsvg.in)
