@@ -1,7 +1,7 @@
 # 💫About Me :
  👋 Hi, I’m Nishchay Shakya, A Sophomore at Indian Institute of Information Technology, Kota.
-- 👀 I’m interested in App Development using Flutter Framework.
-- 🌱 I’m currently learning Machine Learning, UX Design, App Development using Flutter Framework.
+- 👀 I’m interested in App Development.
+- 🌱 I’m currently learning Machine Learning, App Development using Flutter Framework.
 - 💞️ I’m looking to collaborate on App Development Projects.
 
 ## 🌐Socials
