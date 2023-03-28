@@ -4,8 +4,8 @@
 - 🌱 Interested in Machine Learning.
 - 💞️ Deployed a Rewards Converter App on Playstore (Cash It Out).
 
-## Cash It Out
-[![Cash It Out]](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)(https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
+## Cash It Out: Rewards Converter
+[![Cash It Out](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)(https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchayshakyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchayshakya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nishchayshakyaa) 
