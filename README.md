@@ -15,6 +15,8 @@
 
 [![NishchayShakya1's GitHub | Stats](https://stats.quine.sh/NishchayShakya1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=NishchayShakya1)
 
+[![NishchayShakya1's GitHub | Dependencies](https://stats.quine.sh/NishchayShakya1/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=NishchayShakya1)
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=NishchayShakya1&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NishchayShakya1&theme=nightowl&hide_border=false)<br/>
