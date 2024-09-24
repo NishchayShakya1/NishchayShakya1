@@ -2,10 +2,11 @@
  👋 Hi, I’m Nishchay Shakya, A Sophomore at Indian Institute of Information Technology, Kota.
 - 👀 A Flutter Developer.
 - 🌱 Interested in Machine Learning.
-- 💞️ Deployed a Rewards Converter App on Playstore (Cash It Out).
+- 💞️ Deployed 2 Apps on Play Store.
 
 ## Cash It Out: Rewards Converter
 [![Cash It Out](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)](https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
+[![WealthMetrics](https://play-lh.googleusercontent.com/kzlxqlslkNQozmluMLkbYckohxpmsaIR2GOMEPiXQHTKe-DNuxVy44xkdRcdYToeTHdB=w480-h960-rw)](https://play.google.com/store/apps/details?id=com.nishchay.wealthmetrics)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchayshakyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchayshakya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nishchayshakyaa) 
