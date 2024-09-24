@@ -4,7 +4,7 @@
 - 🌱 Interested in Machine Learning.
 - 💞️ Deployed 2 Apps on Play Store.
 
-## Cash It Out: Rewards Converter
+## Available on Play Store
 [![Cash It Out](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)](https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
 [![WealthMetrics](https://play-lh.googleusercontent.com/kzlxqlslkNQozmluMLkbYckohxpmsaIR2GOMEPiXQHTKe-DNuxVy44xkdRcdYToeTHdB=w480-h960-rw)](https://play.google.com/store/apps/details?id=com.nishchay.wealthmetrics)
 
