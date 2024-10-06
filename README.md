@@ -5,7 +5,7 @@
 - 💞️ Deployed 2 Apps on Play Store.
 
 ## Available on Play Store
-[![Cash It Out](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)](https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
+[![Cash It Out](https://play-lh.googleusercontent.com/14KRO_QmR-zaKd4dPAccP_j_bgGBxfZ91V4R3fbiWUUTCQ3csYrNk2qjGlLGlT71rQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
 [![WealthMetrics](https://play-lh.googleusercontent.com/kzlxqlslkNQozmluMLkbYckohxpmsaIR2GOMEPiXQHTKe-DNuxVy44xkdRcdYToeTHdB=w480-h960-rw)](https://play.google.com/store/apps/details?id=com.nishchay.wealthmetrics)
 
 ## 🌐Socials
