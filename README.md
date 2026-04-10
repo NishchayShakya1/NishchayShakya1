@@ -1,11 +1,10 @@
 # 💫About Me :
- 👋 Hi, I’m Nishchay Shakya, A Sophomore at Indian Institute of Information Technology, Kota.
-- 👀 A Flutter Developer.
-- 🌱 Interested in Machine Learning.
+ 👋 Hi, I’m Nishchay Shakya, Currently a Software Engineer at Capgemini. Completed my B.Tech from Indian Institute of Information Technology, Kota.
+- 👀 A Java Backend Developer using Spring Boot.
+- 🌱 Made mobile apps during my Graduation using Flutter Framework.
 - 💞️ Deployed 2 Apps on Play Store.
 
 ## Available on Play Store
-[<img title="Cash It Out: Rewards Converter" src="https://play-lh.googleusercontent.com/14KRO_QmR-zaKd4dPAccP_j_bgGBxfZ91V4R3fbiWUUTCQ3csYrNk2qjGlLGlT71rQ=w240-h480-rw" width="300" height="300">](https://play.google.com/store/apps/details?id=com.nishchay.cashitout) 
 
 [<img title="WealthMetrics" src="https://play-lh.googleusercontent.com/kzlxqlslkNQozmluMLkbYckohxpmsaIR2GOMEPiXQHTKe-DNuxVy44xkdRcdYToeTHdB=w240-h480-rw" width="300" height="300">](https://play.google.com/store/apps/details?id=com.nishchay.wealthmetrics)
 
