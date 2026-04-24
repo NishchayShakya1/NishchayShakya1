@@ -1,6 +1,6 @@
 # 💫About Me :
  👋 Hi, I’m Nishchay Shakya, Currently a Software Engineer at Capgemini. Completed my B.Tech from Indian Institute of Information Technology, Kota.
-- 👀 A Java Backend Developer using Spring Boot.
+- 👀 A Java Backend Developer specializing in Spring Boot, Docker & Kafka.
 - 🌱 Made mobile apps during my Graduation using Flutter Framework.
 - 💞️ Deployed 2 Apps on Play Store.
 
